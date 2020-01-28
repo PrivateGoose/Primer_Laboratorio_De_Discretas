@@ -1,0 +1,11 @@
+C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\bin\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.exe
+C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\bin\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.deps.json
+C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\bin\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.runtimeconfig.json
+C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\bin\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.runtimeconfig.dev.json
+C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\bin\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.dll
+C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\bin\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.pdb
+C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\obj\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.csprojAssemblyReference.cache
+C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\obj\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.AssemblyInfoInputs.cache
+C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\obj\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.AssemblyInfo.cs
+C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\obj\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.dll
+C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\obj\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.pdb
