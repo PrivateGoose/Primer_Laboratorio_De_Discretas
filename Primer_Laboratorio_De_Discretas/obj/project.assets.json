@@ -1,11 +1,36 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "BigInteger/1.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/net20/BigInteger.dll": {}
+        },
+        "runtime": {
+          "lib/net20/BigInteger.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BigInteger/1.0.7": {
+      "sha512": "PaOPKvMc7s/RygNuD+4eMCBuzQOsQY8o4ja7If1fScGgVX/sq6LfYzXHXxqlfrh2gCl5k9yLSUZQw6edIIeI+w==",
+      "type": "package",
+      "path": "biginteger/1.0.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "biginteger.1.0.7.nupkg.sha512",
+        "biginteger.nuspec",
+        "lib/net20/BigInteger.dll"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "BigInteger >= 1.0.7"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\juanp\\.nuget\\packages\\": {},
@@ -47,6 +72,12 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
+        "dependencies": {
+          "BigInteger": {
+            "target": "Package",
+            "version": "[1.0.7, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -65,5 +96,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'BigInteger 1.0.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "libraryId": "BigInteger",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.0"
+      ]
+    }
+  ]
 }

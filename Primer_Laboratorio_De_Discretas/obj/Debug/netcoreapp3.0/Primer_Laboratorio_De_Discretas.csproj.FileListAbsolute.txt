@@ -9,3 +9,5 @@ C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_D
 C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\obj\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.AssemblyInfo.cs
 C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\obj\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.dll
 C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\obj\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.pdb
+C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\bin\Debug\netcoreapp3.0\BigInteger.dll
+C:\Users\juanp\source\repos\Primer_Laboratorio_De_Discretas\Primer_Laboratorio_De_Discretas\obj\Debug\netcoreapp3.0\Primer_Laboratorio_De_Discretas.csproj.CopyComplete
